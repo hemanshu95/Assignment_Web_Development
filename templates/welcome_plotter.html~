@@ -1,0 +1,27 @@
+{% extends "base2.html" %}
+{% block content %}	
+<form method="POST">
+    <div>
+        <label for="a"><h1>Enter the objective x and y : </h1></label>
+        <input type="text" name="a" />
+    </div>
+    <div>
+        <label for="b"><h1>Enter the constraint value : </h1></label>
+        <input type="text" name="b" />
+    </div>	
+	<div>
+        <label for="c"><h1>Enter the constraints : </h1></label>
+        <input type="text" name="c" />
+    </div>
+    <div>
+        <label for="msg">Enter the {{s1}}{{s2}}{{s3}} :</label>
+      
+    </div>
+	<div>
+        <button type="submit"><h2> PRINT </h2></button>
+    </div>
+	<div>
+		<img src={{source}} />
+	</div>
+</form>
+{% endblock %}

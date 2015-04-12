@@ -1,0 +1,18 @@
+{% extends "base2.html" %}
+{% block content %}
+
+<div class="qwerty">
+<h2>Average Of Numbers</h2>
+<form  method="post">
+    <input type="text" name="points"/>
+    <p><br></p>
+    <div>
+        <button type="submit" >Average</button>
+    </div>
+
+
+</form>
+<p>{{source}}</p>
+<p>Note:- Ensure that the numbers are comma separated<br>   Sample Input:- 1,2,3,4 </p>
+</div>
+{% endblock %}

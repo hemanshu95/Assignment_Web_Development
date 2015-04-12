@@ -1,0 +1,69 @@
+
+<!-- saved from url=(0028)http://127.0.0.1:5000/devang -->
+<html lang="en"><head>
+	<title>Static Webpage</title>
+	<link rel="stylesheet" type="text/css" href="./StaticWebpage_files/global.css">
+</head>
+
+<body>	
+	
+	
+	
+	
+	<div id="content" class="clearfix">
+		<section id="left">
+			<div id="userStats" class="clearfix">
+				<div class="pic">
+					<img src="./StaticWebpage_files/devangphoto.jpg" width="150" height="150">
+				</div>
+				
+				<div class="data">
+					<h1>Devang Kulshreshtha</h1>
+					<h3>India, Student</h3>
+					<h4><a href="https://www.facebook.com/devang.kulshreshtha">Facebook</a></h4>
+
+					
+					
+				</div>
+			</div>
+			
+			<h1>About Me:</h1><hr>
+
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Name</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Devang Kulshreshtha</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Age</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">18 </b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Place</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Agra , India</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Date Of Birth</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">12 Aug 1996</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Mobile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">9621633895</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Profession</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Student</b><br><br><br>
+			
+			<h1>Academic Details:</h1>
+			<hr>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">College</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Indian Institute of Technology(IIT BHU) Varanasi</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Year</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">1st</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Stream</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Engineering</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Branch</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Computer Science and Engineering</b><br>
+			<b style="font-family: Georgia, Tahoma, sans-serif; font-style: italic; font-size: 1.4em; letter-spacing: -0.04em; line-height: 1.8em;">Areas of interest</b>&nbsp;&nbsp;&nbsp;&nbsp;<b style="color: #698216; font-weight: normal; font-size: 1.3em; line-height: 1.6em;">Android application development , python , c , robotics etc.</b><br><br><br>
+
+			<h1>Courses taken so far in the college:</h1><hr>
+			<ul style="display: block;list-style-type: square;margin-top: 3em;margin-bottom: 3 em;margin-left: 0;margin-right: 0;padding-left: 40px;">
+				<li style="font-size:17px"><h3>Mathematics-1</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Mathematics-2</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Physics</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Computer Programming</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Biology</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Manufacturing Practices-1</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Engineering Mechanics</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>IT-Workshop1</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Fundamentals of Electrical Engineering</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Manufacturing Practices-2</h3></li>
+				<li style="font-size:17px;margin-top:0.4em"><h3>Engineering Drawing</h3></li>
+			</ul>
+			
+
+			
+		</section>
+		
+		
+	</div>
+
+</body></html>

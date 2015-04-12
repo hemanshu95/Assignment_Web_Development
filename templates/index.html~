@@ -1,0 +1,82 @@
+
+<html >
+
+<head>
+  <title>Welcome To A New World</title>
+
+  <link rel="stylesheet" type="text/css" href="static/style.css" />
+</head>
+
+<body>
+  <div id="main">
+	
+	<div id="header">  
+	  
+	  <div id="welcome">
+	    <h1><a>Welcome To A New World</a></h1>
+	  </div><!--close welcome-->
+	  
+	  <div id="menubar_container">
+		
+		<div id="menubar">
+		
+          <div id="menu_items">
+	        <ul id="menu">
+              <li class="current"><a href="index.html">Home</a></li>
+              <li><a href="ourwork.html">About Us</a></li>
+              <li><a href="testimonials.html">To Average</a></li>
+              <li><a href="projects.html">Plot</a></li>
+
+            </ul>
+          </div><!--close menu-->
+		
+        </div><!--close menubar-->	
+		
+      </div><!--close menubar_container-->	
+
+    <div id="header_image"></div>		  	  
+	
+	</div><!--close header-->			
+	
+	<div id="site_content">	 
+	
+	 
+	  <div id="content">	  
+        
+		<h1>Welcome To Your Website</h1> 
+	    <p>This standards compliant, simple, fixed width website template is released as an 'open source' design (under the Creative Commons Attribution 3.0 Licence), which means that you are free to download and use it for anything you want (including modifying and amending it). If you wish to remove the &lsquo;ARaynorDesign&rsquo; link in the footer of the template, all I ask is for a donation of &pound;20.00 GBP.</p>			
+		
+		<div class="content_container">	
+		  <h3>Your Title Here</h3>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
+		   <div class="button_small">
+		    <a href="#">Read more</a>
+		  </div><!--close button_small-->
+		</div><!--close content_container-->
+          
+		<div class="content_container">
+		  <h3>Your Title Here</h3>		
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
+		   <div class="button_small">
+		    <a href="#">Read more</a>
+		  </div><!--close button_small-->
+		</div><!--close content_container-->	
+		
+		<div class="content_container">
+		  <h3>Your Title Here</h3>		
+		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim. Aliquam facilisis neque non nunc posuere eget volutpat metus tincidunt.</p>
+		   <div class="button_small">
+		    <a href="#">Read more</a>
+		  </div><!--close button_small-->
+		</div><!--close content_container-->		
+      
+	  </div><!--close content--> 
+	  
+	</div><!--close site_content-->   
+  
+  </div><!--close main-->   
+
+
+  
+</body>
+</html>

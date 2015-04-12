@@ -1,0 +1,49 @@
+
+<html >
+
+<head>
+  <title>Welcome To A New World</title>
+	<link rel="stylesheet" type="text/css" href="static/css/style.css" />
+
+  </head>
+
+<body>
+  <div id="main">
+	
+	<div id="header">  
+	  
+	  <div id="welcome">
+	    <h1><a>Welcome To A New World</a></h1>
+	  </div><!--close welcome-->
+	  
+	  <div id="menubar_container">
+		
+		<div id="menubar">
+		
+          <div id="menu_items">
+	        <ul id="menu">
+              <li class="current"><a href="/">Home</a></li>
+              <li><a href="h1">About Us</a></li>
+              <li><a href="/testimonials.html">To Average</a></li>
+              <li><a href="/plot">Plot</a></li>
+
+            </ul>
+          </div><!--close menu-->
+		
+        </div><!--close menubar-->	
+		
+      </div><!--close menubar_container-->	
+
+    <div id="header_image"></div>
+	
+	</div><!--close header-->
+	{% block content %}
+	{% endblock %}			
+	
+	
+  </div><!--close main-->   
+
+
+  
+</body>
+</html>

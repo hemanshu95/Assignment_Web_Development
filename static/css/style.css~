@@ -1,0 +1,203 @@
+html
+{ height: 100%;}
+
+
+
+body
+{ font: normal 85% Arial, Helvetica, sans-serif;
+  color: #000;
+
+
+}
+
+p
+{ padding: 0 0 20px 0;
+  line-height: 1.7em;
+  font-size: 100% }
+
+
+
+h1, h2, h3, h4, h5, h6 
+{ font: bold 200% 'Open Sans Condensed', sans-serif;
+  color: #284020;
+  letter-spacing: -1px;
+  margin: 0 0 10px 0;}
+
+h2
+{ font: normal 165% 'Open Sans Condensed', sans-serif;}
+
+h3
+{ font: normal 150% 'Open Sans Condensed', sans-serif;}
+
+h4, h5, h6
+{ margin: 0;
+  padding: 0 0 0px 0;
+  font: normal 150% 'Open Sans Condensed', sans-serif;
+  line-height: 1.5em;}
+
+h5, h6
+{ font: normal 95% 'Open Sans Condensed', sans-serif;
+  padding-bottom: 15px;}
+
+a
+{ color: #000;
+  text-shadow: 1px 1px #FFF;
+  font-weight: bold;
+  background: transparent;
+  outline: none;
+  text-decoration: underline;}
+
+
+
+ul
+{ margin: 2px 0 22px 30px;
+  line-height: 1.7em;
+  font-style: normal;
+  font-size: 100%;}
+
+ol
+{ margin: 8px 0 22px 20px;}
+
+ol li
+{ margin: 0 0 11px 0;}
+
+
+
+#header
+{ height: 550px;
+  background: #284020;
+  background: -moz-linear-gradient(#437133, #284020);
+  background: -o-linear-gradient(#437133, #284020);
+  background: -webkit-linear-gradient(#437133, #284020);
+}
+
+#menubar_container
+{ height: 100px;}
+
+#menubar
+{ width: 940px;
+  height: 100px;} 
+  
+#welcome
+{ width: 940px;
+  height: 80px;
+  padding: 20px 0 0 0;
+  text-align: center;
+  margin: 0 auto;}  
+   
+#welcome h1 a
+{ font: bold 150% 'Open Sans Condensed', sans-serif;
+  letter-spacing: -2px;
+  color: #F4FB3B;
+  text-decoration: none;
+  text-shadow: 1px 1px #350B39;}
+  
+#menu_items
+{ float: left;
+  margin-top: 20px;
+  padding: 10px 0;
+  width: 940px;
+  background: #437133;
+  background: -moz-linear-gradient(#437133, #284020);
+  background: -o-linear-gradient(#437133, #284020);
+  background: -webkit-linear-gradient(#437133, #284020);
+  border-bottom: 2px solid #1D2D17;
+  border-radius: 30px 0px 30px 0px;
+  -moz-border-radius: 30px 0px 30px 0px;
+  -webkit-border: 30px 0px 30px 0px;}
+  
+ul#menu
+{ margin:0;
+  float: left;}
+
+ul#menu li
+{ padding: 0 0 0 0px;
+  list-style: none;
+  margin: 2px 1px 0 0;
+  display: inline;
+  background: transparent;}
+
+ul#menu li a
+{ float: left;
+  font: bold 120% 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: #FFF;
+  text-shadow: 1px 1px #000; 
+  text-decoration: none;
+  margin: 0px 0 0 10px;
+  padding: 5px 15px 5px 15px;
+  background: transparent; } 
+  
+ul#menu li.current a
+{ text-shadow: 1px 1px #323232;  
+  background: #284020;
+  background: -moz-linear-gradient(#437133, #284020);
+  background: -o-linear-gradient(#437133, #284020);
+  background: -webkit-linear-gradient(#437133, #284020);
+  border-radius: 15px 0px 15px 0px;
+  -moz-border-radius: 15px 0px 15px 0px;
+  -webkit-border: 15px 0px 15px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;  }
+  
+ul#menu li:hover a
+{ text-shadow: 1px 1px #000;  
+  background: #284020;
+  background: -moz-linear-gradient(#284020, #437133);
+  background: -o-linear-gradient(#284020, #437133);
+  background: -webkit-linear-gradient(#284020, #437133);
+  border-radius: 15px 0px 15px 0px;
+  -moz-border-radius: 15px 0px 15px 0px;
+  -webkit-border: 15px 0px 15px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;  }
+
+
+
+
+#content
+{ width: 900px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  float: left;}
+  
+#content h1
+{ margin-top: 20px;}
+
+
+.form_settings
+{ margin: 0 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 280px; 
+  text-align: left;}
+  
+
+ 
+
+
+.form_settings .submit
+{ font: bold 100% 'Open Sans Condensed', sans-serif;
+  width: 99px; 
+  margin: 0 0 0 206px; 
+  height: 26px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #284020;
+  background: -moz-linear-gradient(#437133, #284020);
+  background: -o-linear-gradient(#437133, #284020);
+  background: -webkit-linear-gradient(#437133, #284020);
+  border-radius: 15px 0px 15px 0px;
+  -moz-border-radius: 15px 0px 15px 0px;
+  -webkit-border: 15px 0px 15px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  color: #FFF;
+  text-shadow: 1px 1px #000;}
